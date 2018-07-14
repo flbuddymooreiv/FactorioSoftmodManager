@@ -23,7 +23,7 @@
 <h2 align="center">Factorio Softmod Manager Repository</h2>
 <br>
 
-This npm module can be used to download and install softmods (mods which require no download by the player) for a server. Using the install command and providing the directory of the scenario folder (you will have to create one for now) it will download all modules in that scenario and all their dependieces once down you are free to start the game via host scenario. Unfortully a sideeffect of this is that you can no longer earn achievements.
+This npm module can be used to download and install softmods (mods which require no download by the player) for a server. Using the install command and providing the directory of the scenario folder (you will have to create one for now) it will download all modules in that scenario and all their dependieces once down you are free to start the game via host scenario. Unfortunately, a side effect of this is that you can no longer earn achievements.
 
 ## Instalation
 `npm i -g fsm-cli`
